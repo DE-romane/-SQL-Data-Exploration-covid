@@ -1,4 +1,4 @@
-# -SQL-Data-Exploration-covid
+# COVID Insights Analyzer sql
 
 ## Datasets
 
